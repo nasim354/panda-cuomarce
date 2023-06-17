@@ -1,0 +1,32 @@
+.color{
+    background-color: rgb(122, 84, 37);
+}
+.bg-color{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.btn-color{
+    border-radius:10px;
+    background-color:#FF589B;
+}
+.btn-1{
+    color:#FF589B ;
+}
+.container{
+    margin-bottom:60px;
+}
+.cat-1,.cat-2,.cat-3{
+    padding:10px 30px;
+}
+.cat-1{
+    background-color: #FF589B;
+    border-radius:10px;
+}
+.cat-2{
+  background-color: #4289FF;
+  border-radius:10px ;
+}
+.cat-3{
+    background-color:#FF9C35 ;
+    border-radius:10px;
+}
