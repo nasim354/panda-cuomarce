@@ -33,5 +33,19 @@
 }
 .none{
     border: none;
-     box-shadow:5px 6px 30px rgb(108, 213, 255);
+     box-shadow:5px 6px 30px rgb(76, 144, 172);
+}
+.name{
+    border: none;
+    box-shadow: 5px 5px 30px rgb(62, 158, 110);
+}
+.bg{
+    background-color: #FEEAE9;
+    height: 300px;
+    border-radius: 10px;
+
+}
+footer{
+    
+    text-align: center;
 }
