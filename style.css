@@ -17,6 +17,7 @@
 }
 .cat-1,.cat-2,.cat-3{
     padding:10px 30px;
+    box-shadow: 5px 5px 30px rgb(208, 255, 146);
 }
 .cat-1{
     background-color: #FF589B;
@@ -29,4 +30,8 @@
 .cat-3{
     background-color:#FF9C35 ;
     border-radius:10px;
+}
+.none{
+    border: none;
+     box-shadow:5px 6px 30px rgb(108, 213, 255);
 }
